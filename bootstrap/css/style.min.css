@@ -1,1 +1,11 @@
-body{color: blue; margin:  3% 10%;} 
+body{color: blue; margin:  0 10%;} 
+.navbar{background-color: #45c5d2;} 
+
+#quemSomos{background-color: red;} 
+#parceiros{background-color: blue;  color: black; } 
+#servicos{background-color: green; color: black}
+footer{
+	background-color: red;
+	text-align: center;
+	font-family: Arial, Agency FB;
+}
